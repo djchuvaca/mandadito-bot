@@ -1,0 +1,4 @@
+2026/05/06-19:45:09.159 42c0 Creating DB C:\Users\Usuario\mandadito-bot\.wwebjs_auth\session\Default\Sync Data\LevelDB since it was missing.
+2026/05/06-19:45:09.177 42c0 Reusing MANIFEST C:\Users\Usuario\mandadito-bot\.wwebjs_auth\session\Default\Sync Data\LevelDB/MANIFEST-000001
+2026/05/06-19:45:09.177 42c0 Recovering log #3
+2026/05/06-19:45:09.178 42c0 Reusing old log C:\Users\Usuario\mandadito-bot\.wwebjs_auth\session\Default\Sync Data\LevelDB/000003.log 

@@ -1,0 +1,5 @@
+2026/05/06-19:45:09.193 3c04 Creating DB C:\Users\Usuario\mandadito-bot\.wwebjs_auth\session\Default\Local Storage\leveldb since it was missing.
+2026/05/06-19:45:09.204 3c04 Reusing MANIFEST C:\Users\Usuario\mandadito-bot\.wwebjs_auth\session\Default\Local Storage\leveldb/MANIFEST-000001
+2026/05/06-19:45:09.211 3c04 Recovering log #4
+2026/05/06-19:45:09.213 3c04 Reusing old log C:\Users\Usuario\mandadito-bot\.wwebjs_auth\session\Default\Local Storage\leveldb/000004.log 
+2026/05/06-19:45:09.214 3c04 Delete type=2 #5

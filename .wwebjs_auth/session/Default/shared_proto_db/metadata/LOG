@@ -1,0 +1,4 @@
+2026/05/06-19:45:09.256 1cd0 Creating DB C:\Users\Usuario\mandadito-bot\.wwebjs_auth\session\Default\shared_proto_db\metadata since it was missing.
+2026/05/06-19:45:09.264 1cd0 Reusing MANIFEST C:\Users\Usuario\mandadito-bot\.wwebjs_auth\session\Default\shared_proto_db\metadata/MANIFEST-000001
+2026/05/06-19:45:09.266 1cd0 Recovering log #3
+2026/05/06-19:45:09.266 1cd0 Reusing old log C:\Users\Usuario\mandadito-bot\.wwebjs_auth\session\Default\shared_proto_db\metadata/000003.log 
